@@ -1,0 +1,11 @@
+1) criar repositório no GitHub c/ nome
+2) Descrição
+3) Público para todos verem
+4) Add README file
+5) code cópia https
+6) Documentos DEV GIT DIO
+7) Git Bash
+8) digita git clone e cola o https e enter
+9) na pasta documentos vai aparecer os arq. .git e README.md
+10) cd para trabalhar na pasta
+11) git status
