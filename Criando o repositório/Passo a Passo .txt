@@ -9,3 +9,8 @@
 9) na pasta documentos vai aparecer os arq. .git e README.md
 10) cd para trabalhar na pasta
 11) git status
+12) volta ao git bash e da git status e ver que precisa add as novas pastas ou arquivos no Github
+13) git add . ou -a p/ add todos os arquivos + git status p/ ver se foram salvos
+14) git commit -m "msg" comentário preciso + enter
+15) git push origin main
+16) pág github atualiza e começa o jogo kkkk
